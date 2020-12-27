@@ -6,4 +6,4 @@ This commonlib Python package is an example used by `Shun's Vineyard <https://sh
 
 Requirements
 ============
-- Python 3.7+
+- Python 3+
