@@ -17,9 +17,9 @@ setuptools.setup(
     description="An simple Python package",
     long_description=README,
     long_description_content_type="text/x-rst",
-    url="https://github.com/shunsvineyard/commonlib",
+    url="https://github.com/burpeesDaily/commonlib",
     author="Shun Huang",
-    author_email="shunsvineyard@protonmail.com",
+    author_email="shun@formosa1544.com",
     license="MIT",
     classifiers=[
         "License :: OSI Approved :: MIT License",
