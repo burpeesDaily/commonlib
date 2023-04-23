@@ -1,0 +1,18 @@
+[project]
+name = "commonlib"
+version = "0.0.1"
+authors = [
+    {name="Shun Huang", email="shun@formosa1544.com"}
+]
+description = "Simple Python package"
+readme = {file = "README.rst", content-type = "text/x-rst"}
+requires-python = ">=3"
+dependencies = []
+license = {text = "MIT License"}
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+]
+
+[project.urls]
+repository = "https://github.com/burpeesDaily/commonlib"
